@@ -1,0 +1,1 @@
+UBUNTU INSTALLATION successfully dual booted ubuntu in to my pc with vidyaratna resource provided in the amfoss website and also watched few tutorials on youtube to get a clear picture on the procedure.I was also careful during the disk partitions.
