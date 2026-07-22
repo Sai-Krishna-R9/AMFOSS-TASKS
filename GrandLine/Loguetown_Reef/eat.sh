@@ -12,7 +12,7 @@ if [[ ! -f "$FRUIT" ]]; then
     exit 1
 fi
 
-if [[ -w "$FRUIT" ]]; then
+if [[ -x "$FRUIT" ]]; then
     echo
     echo "------------------------------------------------------------"
     echo
