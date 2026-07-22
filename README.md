@@ -47,9 +47,7 @@ Yet no imitation can truly copy freedom.
 
 Marine property is manufactured, catalogued, and permanently sealed under strict control.
 
-A true Devil Fruit refuses to be owned.
-
-Somewhere among the cargo lies an object that still possesses the freedom to change itself.
+Somewhere among the cargo lies an object that still possesses the power to awaken itself.
 
 Only by eating the genuine fruit will its true power awaken. (Use ./eat.sh <file_name>)
 
