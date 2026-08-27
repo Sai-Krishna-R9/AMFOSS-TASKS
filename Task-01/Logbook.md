@@ -32,3 +32,14 @@ when we cat that secrent link.txt file we can see the PONEGLYPH_FRAGMENT_II="Swn
                                                       PONEGLYPH_FRAGMENT_I  = "KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnL"
                                      ########level_5######
 
+this os also a git puzzle in the history there was a commit which was deleted that is what meant by the bombardment in the description of level -5 
+we should combine the two fragments to make it meaningful as the description says "neither fragment makes meaning alone"
+if we use git branch -a to see all hidden files .as the story says the file we are looking for has been destroyed and erased .the lohg says that the newest one says that the vaults
+ were removed aand erased.so we should run the git checkout "d4e7bf5"
+we have travelled back into time its like exactly how the vaults were before the destruction happened, there are 5 normal vaults and one secure vault which is hidden as it is
+ starting with a dot.
+when we open all these 5 normal vaults it gives the same output alarming that there was an intruder this means all these are only decoys,and when we use the ls -la command
+which we used in the first level we get to see poneglyph.py which is also green in color .and as same as the first level the permissions given to this file are aslo different 
+from others.
+ and this file is asking for some code  according to the story when we join them and give and boom****** WE REACHED LAUGH TALE 
+
