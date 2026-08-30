@@ -2,7 +2,7 @@
 
 
 
-I am Sai Krishna Reddy from tirupati,Andhra pradesh,India.I am studying BTECH(CSE QUANTUM COMPUTING) at Amrita vishwa vidhyapeetham(amritapuri campus).I love learning new skills,trying new things and ,capturing everything 📸 and meeting new people 🤝
+I am Sai Krishna Reddy from tirupati,Andhra pradesh,India.I am studying BTECH(CSE QUANTUM COMPUTING) at Amrita vishwa vidhyapeetham(amritapuri campus).I love learning new skills,trying new things ,capturing everything 📸 and meeting new people 🤝
 
 My hobbies are athletics🎽 (Represented Ap and Tg at national level two times),volleyball, basketball, photography, photo editing ,video editing and learning about emerging technologies 
 
@@ -18,8 +18,7 @@ The problem I have noticed in our clg is the food .As we already know  it is goo
 
 
 The skills I can confidently say that I learnt outside class room and I  am very good at are photography📸, photo editing🖥️ and video editing🎥 which I learnt very passionately by watching tutorials,collaborating with other people who had same interests and by following my favorite creators trying to match their styles.
-And now I can confidently say that I have discovered my own style , vision and
-Good at it.
+And now I can confidently say that I have discovered my own style , vision and also pretty Good at it.
 
 
 **How do you intend to contribute back to the club?**
